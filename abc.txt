@@ -2,4 +2,5 @@ This is my first file
 
 Line 1 - Master
 Line 2 - temp1
+Line 3 - temp 2 
 Line 4 - Master
